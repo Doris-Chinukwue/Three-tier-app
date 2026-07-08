@@ -2,5 +2,5 @@
 
 
 
-This is my Cloud Engineering practice repository
+This is my contains my Cloud Engineering practice projects and AWS labs
 
